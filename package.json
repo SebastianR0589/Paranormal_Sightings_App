@@ -1,0 +1,12 @@
+{
+  "name": "paranormal_sightings_app",
+  "version": "1.0.0",
+  "description": "a simple page that allows the user to upload and read paranormal sightings",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Riedel",
+  "license": "ISC"
+}

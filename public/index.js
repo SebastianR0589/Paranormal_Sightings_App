@@ -26,7 +26,6 @@ function renderCards(cardsData) {
   container.innerHTML = cardsHTML
 }
 
-// handle card expand/collapse
 document.querySelector(".cards-container").addEventListener("click", (e) => {
   if (!e.target.classList.contains("read-more-btn")) return
 
